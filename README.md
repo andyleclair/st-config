@@ -1,4 +1,6 @@
-# sugud0r's build of st - the simple (suckless) terminal
+# andyleclair's build of st - the simple (suckless) terminal
+
+Forked from sugud0r's, thanks!
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features:
 
